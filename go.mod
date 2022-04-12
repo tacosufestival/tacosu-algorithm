@@ -1,3 +1,3 @@
-module github.com/tacosufestival/tacosu-algorithm/v0
+module github.com/tacosufestival/tacosu-algorithm
 
 go 1.18
